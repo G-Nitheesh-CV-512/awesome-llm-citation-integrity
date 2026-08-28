@@ -155,7 +155,7 @@ This repository was developed around the research topic:
 
 > **Benchmarking Citation Fabrication Rates Across Large Language Models and Agentic Search Tools**
 
-The project investigates how reliably different AI systems produce scholarly references and how citation fabrication and citation-support errors can be measured and compared.
+The project focuses on how reliably different AI systems produce scholarly references and on methods for measuring and comparing citation fabrication and citation-support errors.
 
 ## Related Project Files
 

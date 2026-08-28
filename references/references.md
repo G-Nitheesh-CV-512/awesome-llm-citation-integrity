@@ -127,7 +127,7 @@ This section contains research papers relevant to citation fabrication, citation
 - **Relevance:** Introduces a large benchmark and evaluation framework for hallucinations across language models.
 
 ### 18. Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection
-- **Authors:** Akari Asai, Zeqiu Wu, Yizhong Wang, Avirup Sil, Hannaneh Hajishirzi
+- Authors: Akari Asai, Zeqiu Wu, Yizhong Wang, Avi Sil, Hannaneh Hajishirzi
 - **Year:** 2024
 - **Venue:** International Conference on Learning Representations (ICLR 2024)
 - **Identifier:** https://arxiv.org/abs/2310.11511

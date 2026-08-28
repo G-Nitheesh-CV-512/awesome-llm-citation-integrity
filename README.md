@@ -2,9 +2,31 @@
 
 A curated collection of research papers, datasets, tools, and open-source implementations related to citation fabrication, citation verification, hallucination, retrieval-augmented generation, and generative search.
 
+## Table of Contents
+
+- [Overview](#overview)
+- [AI-Assisted Research Paper](#ai-assisted-research-paper)
+- [Citation Integrity Audit](#citation-integrity-audit)
+- [Research Papers](#research-papers)
+- [Datasets](#datasets)
+- [Tools and Libraries](#tools-and-libraries)
+- [Implementations](#implementations)
+- [Tutorials and Learning Resources](#tutorials-and-learning-resources)
+- [Research Themes](#research-themes)
+- [Verification Principles](#verification-principles)
+- [Research Project](#research-project)
+- [Contributing](#contributing)
+- [License](#license)
+
 ## Overview
 
-Large language models can generate convincing references that are inaccurate, unsupported, or completely nonexistent. This repository collects research and practical resources for studying the reliability of citations and evidence produced by large language models and search-augmented systems.
+## Overview
+
+Large language models are increasingly used to generate research summaries, answer questions, retrieve information, and produce scholarly references. Although these systems can accelerate literature discovery and research writing, they can also generate fabricated citations, incorrect bibliographic details, unsupported claims, and references that do not actually justify the statements for which they are provided. These problems become particularly important when language models are combined with web search, retrieval-augmented generation, or agentic systems that present external sources as evidence.
+
+This repository focuses on citation integrity in large language model and search-augmented systems. It brings together verified research papers, datasets, tools, open-source implementations, and learning resources related to citation fabrication, citation verification, hallucination detection, factuality evaluation, retrieval-augmented generation, and evidence-grounded generation. The collection also covers methods for checking whether references exist, whether bibliographic metadata is accurate, and whether cited sources genuinely support generated claims.
+
+The repository is intended as a reusable research resource for studying the reliability of AI-generated scholarly information. It connects the earlier AI-assisted research paper and citation-integrity audit with verified external literature and practical resources that can support future experiments and benchmarking studies.
 
 The collection is particularly focused on:
 

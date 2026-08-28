@@ -26,6 +26,7 @@ The collection is particularly focused on:
 | [Implementations](implementations/github-repositories.md) | Open-source implementations and research repositories |
 | [Research Paper](paper/AI_Assisted_Research_Paper.pdf) | AI-assisted research paper developed as part of the project |
 | [Citation Audit](citation-audit/Citation_Integrity_Audit.pdf) | Citation-integrity audit associated with the research paper |
+| [Tutorials and Learning Resources](tutorials/tutorials.md) | Authoritative tutorials and documentation for citation verification, scholarly metadata, hallucination evaluation, and reference processing |
 
 ## Research Themes
 
@@ -144,6 +145,9 @@ The repositories include implementations for:
 - Factuality evaluation
 - Retrieval-augmented generation
 - Scholarly document and reference processing
+## Tutorials and Learning Resources
+
+See the [tutorials and learning resources](tutorials/tutorials.md) for authoritative documentation and tutorials covering scholarly metadata verification, literature APIs, reference extraction, and LLM hallucination evaluation.
 
 ## Research Project
 

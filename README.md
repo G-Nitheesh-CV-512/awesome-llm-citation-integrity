@@ -5,8 +5,8 @@ A curated collection of research papers, datasets, tools, and open-source implem
 ## Table of Contents
 
 - [Overview](#overview)
-- [AI-Assisted Research Paper](#ai-assisted-research-paper)
-- [Citation Integrity Audit](#citation-integrity-audit)
+- [AI-Assisted Research Paper](paper/AI_Assisted_Research_Paper.pdf)
+- [Citation Integrity Audit](citation-audit/Citation_Integrity_Audit.pdf)
 - [Research Papers](#research-papers)
 - [Datasets](#datasets)
 - [Tools and Libraries](#tools-and-libraries)
@@ -18,7 +18,6 @@ A curated collection of research papers, datasets, tools, and open-source implem
 - [Contributing](#contributing)
 - [License](#license)
 
-## Overview
 
 ## Overview
 

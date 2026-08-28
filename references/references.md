@@ -77,7 +77,7 @@ This section contains research papers relevant to citation fabrication, citation
 ### 11. Hallucination-Free? Assessing the Reliability of Leading AI Legal Research Tools
 - **Authors:** Varun Magesh, Faiz Surani, Matthew Dahl, Mirac Suzgun, Christopher D. Manning, Daniel E. Ho
 - **Year:** 2025
-- **Venue:** Journal of Empirical Legal Studies, 22(2)
+- Venue: Journal of Empirical Legal Studies, 22(2), 216–242
 - **DOI:** https://doi.org/10.1111/jels.12413
 - **Relevance:** Provides a preregistered empirical evaluation of citation and factual hallucinations in commercial AI legal research tools.
 
@@ -172,7 +172,7 @@ This section contains research papers relevant to citation fabrication, citation
 - **Relevance:** Grounds instruction-following LLMs in search results and studies trustworthy information selection.
 
 ### 24. FreshLLMs: Refreshing Large Language Models with Search Engine Augmentation
-- **Authors:** Tu Vu, Mohit Iyyer, Xuezhi Wang, Noah Constant, Jerry Wei, Jason Wei, Chris Tar, Yun-Hsuan Sung, Denny Zhou, Quoc V. Le, Thang Luong
+- Authors: Tu Vu, Mohit Iyyer, Xuezhi Wang, Noah Constant, Jerry Wei, Jason Wei, Chris Tar, Yun-Hsuan Sung, Denny Zhou, Quoc Le, Thang Luong
 - **Year:** 2024
 - **Venue:** Findings of the Association for Computational Linguistics: ACL 2024, 13697–13720
 - **DOI:** https://doi.org/10.18653/v1/2024.findings-acl.813

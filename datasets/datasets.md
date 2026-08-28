@@ -11,7 +11,7 @@ This section contains datasets relevant to citation verification, hallucination 
 - **Size:** 1,034 annotated citations
 - **Application:** Training and evaluating systems that determine whether a scientific citation actually supports the claim or citation context in which it appears.
 - **Official paper:** https://aclanthology.org/2026.lrec-1.125/
-- **Dataset access:** https://huggingface.co/datasets/birdie0111/SciCiteVal
+- **Dataset access:** See the official paper/resource page above.
 - **Why it is relevant:** This is directly aligned with the research topic because it evaluates whether cited scientific evidence actually supports the citation context.
 
 ## 2. RAGTruth

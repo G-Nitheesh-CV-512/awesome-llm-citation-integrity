@@ -36,8 +36,8 @@ This section contains open-source implementations and research repositories rele
 
 ## 5. GROBID — GeneRation Of BIbliographic Data
 
-- **Repository:** https://github.com/kermitt2/grobid
-- **Organization:** GROBID open-source project
+- **Repository:** https://github.com/grobidOrg/grobid
+- **Organization:** GROBID
 - **Purpose:** Extracts structured scholarly information from PDF documents.
 - **Key capabilities:** Metadata extraction, full-text extraction, citation and bibliography parsing, reference extraction, and structured TEI/XML output.
 - **Why it is relevant:** A citation-fabrication audit needs to inspect and compare bibliographic references. GROBID can help automatically extract reference lists and citation metadata from scholarly PDFs.
